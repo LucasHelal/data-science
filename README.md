@@ -33,3 +33,20 @@ Working with Data: Part1
 
 Working with Data: Part2
 -------------------------
+
+1. Merge
+2. Merge on Index
+3. Concatenate
+4. Combining DataFrames
+5. Reshaping
+6. Pivoting
+7. Duplicates in DataFrames
+8. Mapping
+9. Replace
+10. Rename Index
+11. Binning
+12. Outliers
+13. Permutation
+
+Working with Data: Part3
+-------------------------
