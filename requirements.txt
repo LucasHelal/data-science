@@ -5,3 +5,4 @@ xlrd==1.0.0
 beautifulsoup4==4.5.1
 html5lib==0.999999999
 openpyxl==2.4.0
+seaborn==0.7.1

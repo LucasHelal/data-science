@@ -50,3 +50,12 @@ Working with Data: Part2
 
 Working with Data: Part3
 -------------------------
+
+Data Visualization
+------------------
+1. Histograms
+2. Kernel Density Estimate Plots
+3. Combining Plot Styles
+4. Box and Violin Plots
+5. Regression Plots
+6. Heatmaps and Clustered Matrice
